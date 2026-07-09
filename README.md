@@ -1,2 +1,1 @@
-# codyssey_hy
-깃허브와 코디세이 연결
+GenAI 기초 1: LLM 기반 업무 자동화
